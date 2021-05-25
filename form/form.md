@@ -15,15 +15,15 @@ eleventyNavigation:
   </p>
   
   <p>
-    <label>Surname: <input type="text" name="name" /></label>   
+    <label>Surname:    <input type="text" name="name" /></label>   
   </p>
 
   <p>
-    <label>Email: <input type="email" name="email" /></label>
+    <label>Email:      <input type="email" name="email" /></label>
   </p>
   
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message:    <textarea name="message"></textarea></label>
   </p>
 
   <p>
