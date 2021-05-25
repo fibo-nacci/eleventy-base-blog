@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Form
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: Form
   order: 3
 ---
 
