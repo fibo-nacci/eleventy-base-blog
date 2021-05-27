@@ -98,6 +98,7 @@ module.exports = function(eleventyConfig) {
       "njk",
       "html",
       "liquid"
+      "yml"
     ],
 
     // -----------------------------------------------------------------
